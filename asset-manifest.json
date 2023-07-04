@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fourth-project/static/css/main.b4473748.css",
+    "main.js": "/fourth-project/static/js/main.48dfeb5d.js",
+    "static/js/787.462b490c.chunk.js": "/fourth-project/static/js/787.462b490c.chunk.js",
+    "static/media/logo.png": "/fourth-project/static/media/logo.d708b0b080b1fedb387b.png",
+    "static/media/girl.png": "/fourth-project/static/media/girl.1d6828d934fe794efdba.png",
+    "static/media/1 (2).png": "/fourth-project/static/media/1 (2).9735f5f63cb3659e8156.png",
+    "static/media/1 (1).png": "/fourth-project/static/media/1 (1).0759dbef22fda0264ed8.png",
+    "static/media/main.png": "/fourth-project/static/media/main.6c97a26ad372d0a61d76.png",
+    "static/media/revicons.eot": "/fourth-project/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/fourth-project/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/fourth-project/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/fourth-project/index.html",
+    "main.b4473748.css.map": "/fourth-project/static/css/main.b4473748.css.map",
+    "main.48dfeb5d.js.map": "/fourth-project/static/js/main.48dfeb5d.js.map",
+    "787.462b490c.chunk.js.map": "/fourth-project/static/js/787.462b490c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4473748.css",
+    "static/js/main.48dfeb5d.js"
+  ]
+}
